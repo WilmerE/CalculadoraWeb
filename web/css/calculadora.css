@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5/06/2021, 00:14:07
+    Author     : WPELICO
+*/
+
+main{
+    width: 50%;
+    margin: 0 25%;
+}
+.caja{
+    text-align: center;
+}
+.btn{
+    width: 25%;
+    padding: 5px 0;
+}
+span{
+    color: #4f4f4f;
+}
+p{
+    text-align: center;
+}
